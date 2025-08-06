@@ -36,8 +36,8 @@ With strong foundations in **Python, SQL, Power BI, and Excel**, I focus on anal
 ## 📫 How to Reach Me
 
 - 📧 Email: [your-email-here]  
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 🧠 Portfolio: [your-portfolio-link](https://yourportfolio.com)
+- 🔗 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/nikhil-c-993548151/))  
+- 🧠 Portfolio: [your-portfolio-link]([https://yourportfolio.com](https://niks23c.github.io/Nikhilchavan.github.io/))
 
 ---
 
