@@ -50,7 +50,8 @@ With strong foundations in **Python, SQL, Power BI, and Excel**, I focus on anal
 
 ### Business Intelligence:
 - `Power BI`: DAX, data modeling, interactive dashboards  
-- `Microsoft Fabric`: Lakehouse, Dataflows Gen2, OneLake integration  
+- `Microsoft Fabric`: Lakehouse, Dataflows Gen2, OneLake integration
+- `Google Bigquery`: Integration, data transfer, Sql querying  
 - `Power Automate`: Task automation with Excel and SharePoint
 
 ### In Progress:
