@@ -44,7 +44,7 @@ With strong foundations in **Python, SQL, Power BI, and Excel**, I focus on anal
 ## 🛠️ Skills
 
 ### Programming & Analysis:
-- `Python`: pandas, NumPy, matplotlib, seaborn  
+- `Python`: Jupyter, pandas, NumPy, matplotlib, seaborn, Plotly, scikit learn
 - `SQL`: MySQL, PostgreSQL (joins, aggregations, subqueries, window functions)  
 - `Excel`: Advanced formulas, dynamic ranges, pivot tables
 
