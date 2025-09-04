@@ -21,7 +21,7 @@ With strong foundations in **Python, SQL, Power BI, and Excel**, I focus on anal
 
 - **Machine Learning Fundamentals** and **Hypothesis Testing**  
 - Building end-to-end projects in Python (Pandas, NumPy, Matplotlib)  
-- Exploring **Google BogQuery**, **Microsoft Fabric**, Power BI DAX logic, and automation using python
+- Exploring **Google BigQuery**, **Microsoft Azure fundamnetals**, Power BI DATA Integration from various platforms, and automation using python
 
 ---
 
